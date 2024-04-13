@@ -1,2 +1,2 @@
 # maven_demo
-integrating maven to jenkins
+Created and built a basic maven project using github and jenkins to leverage CICD skills.
